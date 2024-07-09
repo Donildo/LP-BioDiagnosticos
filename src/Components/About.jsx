@@ -1,4 +1,4 @@
-export const Abount = (props) => {
+export const About = (props) => {
     return (
         <div id="abount">
             <div className="container">
